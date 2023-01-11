@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241574862099",
+    "firebase_url": "https://social-media-app-8ee56-default-rtdb.firebaseio.com",
+    "project_id": "social-media-app-8ee56",
+    "storage_bucket": "social-media-app-8ee56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241574862099:android:2de2334364aaa86cbf0ee6",
+        "android_client_info": {
+          "package_name": "com.first.machinetestvoyager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241574862099-pdjiklgr10mnq4ebh4fav1saktstbp8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASax7FolucuyPcTl1QdnopoYd--cFzRzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241574862099-pdjiklgr10mnq4ebh4fav1saktstbp8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
